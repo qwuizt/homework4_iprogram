@@ -1,0 +1,15 @@
+C:\Users\borin\Desktop\homework4\task25\bin\Debug\net6.0\task25.exe
+C:\Users\borin\Desktop\homework4\task25\bin\Debug\net6.0\task25.deps.json
+C:\Users\borin\Desktop\homework4\task25\bin\Debug\net6.0\task25.runtimeconfig.json
+C:\Users\borin\Desktop\homework4\task25\bin\Debug\net6.0\task25.dll
+C:\Users\borin\Desktop\homework4\task25\bin\Debug\net6.0\task25.pdb
+C:\Users\borin\Desktop\homework4\task25\obj\Debug\net6.0\task25.csproj.AssemblyReference.cache
+C:\Users\borin\Desktop\homework4\task25\obj\Debug\net6.0\task25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\borin\Desktop\homework4\task25\obj\Debug\net6.0\task25.AssemblyInfoInputs.cache
+C:\Users\borin\Desktop\homework4\task25\obj\Debug\net6.0\task25.AssemblyInfo.cs
+C:\Users\borin\Desktop\homework4\task25\obj\Debug\net6.0\task25.csproj.CoreCompileInputs.cache
+C:\Users\borin\Desktop\homework4\task25\obj\Debug\net6.0\task25.dll
+C:\Users\borin\Desktop\homework4\task25\obj\Debug\net6.0\refint\task25.dll
+C:\Users\borin\Desktop\homework4\task25\obj\Debug\net6.0\task25.pdb
+C:\Users\borin\Desktop\homework4\task25\obj\Debug\net6.0\task25.genruntimeconfig.cache
+C:\Users\borin\Desktop\homework4\task25\obj\Debug\net6.0\ref\task25.dll
